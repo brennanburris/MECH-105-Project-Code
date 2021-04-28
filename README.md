@@ -5,6 +5,5 @@ This is the code I wrote for my numerical methods course, MECH 105.
 ---
 -Simple Electrical Circuit
 -Degredations of Aqueous Bromide
----
 2. Decisions
 3. 
