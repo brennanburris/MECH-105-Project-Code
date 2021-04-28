@@ -3,7 +3,9 @@
 This are the algorithms I wrote for MECH105, Numerical Methods. 
 
 ---
+
 Repository Contents
+
 ---
 
 1. MATLAB Review
