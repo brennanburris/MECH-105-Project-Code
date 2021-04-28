@@ -8,7 +8,8 @@ Repository Contents
 
   -Simple Electrical Circuit
 
-  -Degredations of Aqueous Bromide
+  -Degredations of Aquoeus Bromide
+  
 ---
 
 2. Decisions
