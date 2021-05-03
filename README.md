@@ -25,3 +25,12 @@ Tabular Data Algorithms
     - Forward Derivative Algorithm
     - Centered Derivative Algorithm
     - Backwards Derivative Algorithm 
+
+Unit Conversions
+
+    - Electron Volts to Joules Calculator
+    
+Days Elapsed Calculator
+    
+    - Days Passed in a Year Algorithm
+
