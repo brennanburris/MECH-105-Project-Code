@@ -1,4 +1,4 @@
-# MECH-105-Project-Code
+# MECH 105 Code
 
 This are the algorithms I wrote for MECH105, Numerical Methods. 
 
