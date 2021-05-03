@@ -1,4 +1,4 @@
-#__ convert2binary Description
+convert2binary Description
 
 This code converts base ten to binary. The only input is a base ten number and is called with the syntax "convert2binary(input)". The code is
 fairly bulletproof and I have not been able to break it yet. If you end up using it and have an issue, feel free to get in contact with me so
