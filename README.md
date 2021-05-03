@@ -29,12 +29,13 @@ Repository Contents
   
 4. Binary Converter
 
-  -A Binary Translator For Your Robot Buddies
+  -A Binary Conversion Algorithm
 
 ---
 5. Root Finding
 
   - False Position Algorithm
+  - Fixed Point Algorithm
 
 ---
 6. Linear Algebra Algorithm
@@ -44,5 +45,5 @@ Repository Contents
 ---
 7. Simpsons 1/3 Algorithm
 
-  - Simpsons 1/3 Rule Algorithm to find the Algorithm of Tabular Data 
+  - Simpsons 1/3 Rule Algorithm to find the Integral of Tabular Data 
 ---
