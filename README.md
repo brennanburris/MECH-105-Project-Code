@@ -36,6 +36,5 @@ Days Elapsed Calculator
 
 Linear Regression Calculator
 
-    - Algorithm that gives the y intercept, slope, and r^2 of a line
-      given a table of dependant and independant data
+    - Algorithm that gives the y intercept, slope, and r^2 of a line given a table of dependant and independant data
 
