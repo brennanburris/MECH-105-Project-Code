@@ -34,3 +34,8 @@ Days Elapsed Calculator
     
     - Days Passed in a Year Algorithm
 
+Linear Regression Calculator
+
+    - Algorithm that gives the y intercept, slope, and r^2 of a line
+      given a table of dependant and independant data
+
